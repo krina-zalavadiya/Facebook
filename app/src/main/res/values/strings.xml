@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Facebook</string>
+    <string name="facebook_app_id">1145782952977862</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+
+    <string name="web_client_id">xxxxxxxx..place your web client id here</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next" tools:ignore="ExtraTranslation">Next</string>
+    <string name="previous" tools:ignore="ExtraTranslation">Previous</string>
+
+
+</resources>
